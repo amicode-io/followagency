@@ -1,0 +1,18 @@
+// Stacks
+.u-stack {
+  --space: 1.5rem;
+
+  display: flex;
+  gap: var(--space);
+
+  // Stack: Vertical
+  &--vertical {
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+
+  // Stack: Horizontal
+  &--horizontal {
+    flex-direction: row;
+  }
+}

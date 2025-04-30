@@ -1,0 +1,36 @@
+.element {
+  --shadow-distance: -0.7rem;
+  --shadow-bg: #000;
+  --border-width: var(--fo-border-width);
+  --border-radius: 1rem;
+
+  position: relative;
+  z-index: 1;
+
+  &__inner {
+    overflow: hidden;
+    aspect-ratio: var(--aspect-ratio, auto);
+    background-color: #ddd;
+  }
+
+  &::before {
+    content: "";
+    display: block;
+    position: absolute;
+    bottom: var(--shadow-distance);
+    left: var(--shadow-distance);
+    width: 100%;
+    height: 100%;
+    background-color: var(--shadow-bg);
+    transform: translate(var(--translate-x, 0), var(--translate-y, 0));
+    z-index: -1;
+  }
+
+  &__inner,
+  &::before {
+    border-style: solid;
+    border-color: var(--fo-color-black, #000);
+    border-width: var(--fo-border-width, 2px);
+    border-radius: var(--border-radius);
+  }
+}

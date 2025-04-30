@@ -1,0 +1,36 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxt/content": "^2.13.4",
+    "@nuxtjs/device": "^3.2.4",
+    "@nuxtjs/html-validator": "^1.8.2",
+    "@pinia/nuxt": "^0.10.1",
+    "@splidejs/vue-splide": "^0.6.12",
+    "@vueuse/components": "^12.0.0",
+    "@vueuse/core": "^11.3.0",
+    "@vueuse/nuxt": "^11.2.0",
+    "fitty": "^2.4.2",
+    "gsap": "^3.12.5",
+    "lenis": "^1.1.20",
+    "nuxt": "^3.15.4",
+    "pinia": "^3.0.1",
+    "rfs": "^10.0.0",
+    "vue": "latest",
+    "vue-router": "latest",
+    "vue3-lottie": "^3.3.1"
+  },
+  "devDependencies": {
+    "humblescroll-nuxt": "^1.0.10",
+    "sass": "^1.80.6",
+    "vite-plugin-compression": "^0.5.1"
+  }
+}

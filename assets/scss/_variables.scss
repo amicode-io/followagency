@@ -1,0 +1,12 @@
+:root {
+  --font-comic: "Comic Sans", "Comic Sans MS", "Chalkboard", "ChalkboardSE-Regular", sans-serif;;
+  --font-accent: "tuppence-variable", serif;
+
+  // colors
+  --fo-black: #262626;
+  --fo-white: #FFF;
+
+  // borders
+  --fo-border-width: 2px;
+  --fo-stroke-width: var(--fo-border-width);
+}

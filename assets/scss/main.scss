@@ -1,0 +1,56 @@
+@use "sass:meta";
+@use "sass:math";
+
+// Adobe Fonts
+@import "https://use.typekit.net/sph0rik.css";
+
+// Variables
+@import "rfs/scss";
+@import "variables";
+
+// Utilities
+@import "utilities/humble-scroll";
+@import "utilities/reset";
+@import "utilities/stack";
+@import "utilities/svg";
+@import "utilities/visually-hidden";
+
+// Basic styless
+@import "utilities/basic";
+@import "utilities/element";
+
+// Component
+@import "components/header";
+@import "components/header-logo";
+@import "components/nav";
+@import "components/footer";
+
+html {
+  scroll-behavior: smooth;
+  overscroll-behavior: contain;
+  font-family: var(--font-accent);
+}
+
+body {
+  background-image: url("../images/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.main {
+  overflow: hidden;
+  overflow: clip;
+  position: relative;
+}
+
+.is-overflow-hidden {
+  overflow-y: hidden;
+  overflow-y: clip;
+}
+
+.container {
+  max-width: 100%;
+  width: 82.5rem;
+  margin-inline: auto;
+  padding-inline: 2rem;
+}
