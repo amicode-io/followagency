@@ -1,7 +1,6 @@
 
 
 <script lang="ts" setup>
-import { gsap } from 'gsap'
 
 import type { CardItem, CardTween } from '~/models/CardItem';
 
@@ -18,8 +17,9 @@ cardsTween.value = cards.map((el: CardItem): CardTween => ({ number: el.number, 
 
 const sprintf = (template: string, value: number): string => template.replace(/%d/g, value.toFixed(0));
 
-const onIntersect = (index: number, isIntersecting: boolean): void => {
+const onIntersect = async(index: number, isIntersecting: boolean): Promise<void> => {
   if (isIntersecting) {
+    const { gsap } = await import('gsap');
     gsap.to(
       cardsTween.value[index],
       {

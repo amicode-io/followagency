@@ -1,5 +1,0 @@
-const ContactWoof_vue_vue_type_style_index_0_scoped_16384e43_lang = ".woof[data-v-16384e43]{align-items:center;display:flex;flex-direction:column;font-size:1.5rem;gap:1rem;margin-left:auto}@media (width >= 60rem){.woof[data-v-16384e43]{align-items:flex-end;font-size:2.125rem}}.woof>span[data-v-16384e43]{align-items:flex-start;display:inline-flex;flex-direction:column;position:relative;text-transform:uppercase;transform:rotate(-17deg)}@media (width < 50rem){.woof>span[data-v-16384e43]{translate:20% -.5rem}}.woof>a[data-v-16384e43]{color:var(--fo-black);font-size:1.1em;font-weight:700}.woof>a[data-v-16384e43]:not(:first-child){margin-top:1rem}.woof__paw[data-v-16384e43]{left:0;position:absolute;top:0;transform:translate(-100%,-100%)}.woof__arrow[data-v-16384e43]{height:auto;margin-top:.25em;transform:translate(45%) rotate(-10deg);width:40%}.woof__email[data-v-16384e43]{color:inherit}";
-export {
-  ContactWoof_vue_vue_type_style_index_0_scoped_16384e43_lang as default
-};
-//# sourceMappingURL=ContactWoof-styles-1.mjs-gF7kUc5X.js.map

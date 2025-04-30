@@ -1,4 +1,4 @@
-import process from 'node:process';globalThis._importMeta_={url:import.meta.url,env:process.env};export { j as closePrerenderer, l as localFetch } from './chunks/nitro/nitro.mjs';
+import process from 'node:process';globalThis._importMeta_={url:import.meta.url,env:process.env};export { h as closePrerenderer, l as localFetch } from './chunks/nitro/nitro.mjs';
 import 'file:///Users/mikolagnatuk/Downloads/follow-www-main/node_modules/h3/dist/index.mjs';
 import 'file:///Users/mikolagnatuk/Downloads/follow-www-main/node_modules/ufo/dist/index.mjs';
 import 'file:///Users/mikolagnatuk/Downloads/follow-www-main/node_modules/unified/index.js';

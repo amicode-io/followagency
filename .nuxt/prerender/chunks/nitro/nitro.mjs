@@ -306,7 +306,7 @@ function _expandFromEnv(value) {
 const _inlineRuntimeConfig = {
   "app": {
     "baseURL": "/",
-    "buildId": "24897460-69d5-4e66-a721-7b1c6ea9909a",
+    "buildId": "788deb5d-e37b-4785-963c-a2c747cf747f",
     "buildAssetsDir": "/_nuxt/",
     "cdnURL": ""
   },
@@ -382,7 +382,7 @@ const _inlineRuntimeConfig = {
     "content": {
       "locales": [],
       "defaultLocale": "",
-      "integrity": 1746033334240,
+      "integrity": 1746034653663,
       "experimental": {
         "stripQueryParameters": false,
         "advanceQuery": false,
@@ -1060,9 +1060,6 @@ getContext("nitro-app", {
   AsyncLocalStorage: void 0
 });
 
-function baseURL() {
-  return useRuntimeConfig().app.baseURL;
-}
 function buildAssetsDir() {
   return useRuntimeConfig().app.buildAssetsDir;
 }
@@ -1930,7 +1927,7 @@ const handlers = [
   { route: '/api/_content/query/:qid/**:params', handler: _AF3LJg, lazy: false, middleware: false, method: "get" },
   { route: '/api/_content/query/:qid', handler: _AF3LJg, lazy: false, middleware: false, method: "get" },
   { route: '/api/_content/query', handler: _AF3LJg, lazy: false, middleware: false, method: "get" },
-  { route: '/api/_content/cache.1746033334240.json', handler: _0dK3XG, lazy: false, middleware: false, method: "get" },
+  { route: '/api/_content/cache.1746034653663.json', handler: _0dK3XG, lazy: false, middleware: false, method: "get" },
   { route: '/api/_content/navigation/:qid/**:params', handler: _bVGYYi, lazy: false, middleware: false, method: "get" },
   { route: '/api/_content/navigation/:qid', handler: _bVGYYi, lazy: false, middleware: false, method: "get" },
   { route: '/api/_content/navigation', handler: _bVGYYi, lazy: false, middleware: false, method: "get" },
@@ -2069,5 +2066,5 @@ const localFetch = nitroApp.localFetch;
 const closePrerenderer = () => nitroApp.hooks.callHook("close");
 trapUnhandledNodeErrors();
 
-export { useRuntimeConfig as a, buildAssetsURL as b, useNitroApp as c, defineRenderHandler as d, parseMarkdown as e, getPreview as f, getRouteRules as g, baseURL as h, isPreview as i, closePrerenderer as j, localFetch as l, publicAssetsURL as p, useStorage as u };
+export { useRuntimeConfig as a, buildAssetsURL as b, useNitroApp as c, defineRenderHandler as d, parseMarkdown as e, getPreview as f, getRouteRules as g, closePrerenderer as h, isPreview as i, localFetch as l, publicAssetsURL as p, useStorage as u };
 //# sourceMappingURL=nitro.mjs.map
