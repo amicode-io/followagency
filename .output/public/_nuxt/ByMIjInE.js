@@ -1,0 +1,1 @@
+import{J as u,r as c,i as n}from"./DthWgLLV.js";const l=u("auth",()=>{const s=c(!1),o=async(r="")=>{s.value=!1;const e=await $fetch("/api/auth",{method:"POST",body:{password:n(r)}});return e!=null&&e.success?t():a(),e},t=()=>{console.log("Success"),s.value=!0},a=()=>{s.value=!1};return{isAuth:s,verify:o,success:t,error:a}});export{l as u};

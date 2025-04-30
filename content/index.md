@@ -178,18 +178,18 @@ title: Reels
 type: Reels
 items:
 - type: GridVideo
-  value: https://test.followagency.pl/follow_www/video/social_reels_speakup.mp4
+  value: http://kravets.pl/wp-content/uploads/2025/04/social_reels_speakup.mp4
 - type: GridVideo
-  value: https://test.followagency.pl/follow_www/video/social_stories_biot1.mp4
+  value: http://kravets.pl/wp-content/uploads/2025/04/social_stories_biot1.mp4
 - type: GridVideo
-  value: https://test.followagency.pl/follow_www/video/social_reels_gamer.mp4
+  value: http://kravets.pl/wp-content/uploads/2025/04/social_reels_gamer.mp4
 - type: GridText
   value: Reels
 - type: GridVideo
-  value: https://test.followagency.pl/follow_www/video/social_stories_daso.mp4
+  value: http://kravets.pl/wp-content/uploads/2025/04/social_stories_daso.mp4
 - type: GridVideo
-  value: https://test.followagency.pl/follow_www/video/social_stories_biot2.mp4
+  value: http://kravets.pl/wp-content/uploads/2025/04/social_stories_biot2.mp4
 - type: GridVideo
-  value: https://test.followagency.pl/follow_www/video/social_reels_seat1.mp4  
+  value: http://kravets.pl/wp-content/uploads/2025/04/social_reels_seat1.mp4  
 ---
 ::
