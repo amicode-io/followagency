@@ -1,1 +1,0 @@
-import{d as u}from"./BpGRBeM2.js";import{b as c,u as n}from"./B-6myj8f.js";const i=u("auth",()=>{const s=c(!1),a=async(r="")=>{s.value=!1;const e=await $fetch("/api/auth",{method:"POST",body:{password:n(r)}});return e!=null&&e.success?t():o(),e},t=()=>{console.log("Success"),s.value=!0},o=()=>{s.value=!1};return{isAuth:s,verify:a,success:t,error:o}});export{i as u};

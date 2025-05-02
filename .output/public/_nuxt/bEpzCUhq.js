@@ -1,1 +1,0 @@
-import{z as s}from"./BpGRBeM2.js";const t=s("/contact-arrow.svg");export{t as _};

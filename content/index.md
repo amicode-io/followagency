@@ -81,33 +81,33 @@ id: followers
 title: Followersi
 followers:
 - alt: Follow parties
-  image_url: https://test.followagency.pl/follow_www/foto/follow2.jpg
+  image_url: http://kravets.pl/wp-content/uploads/2025/05/follow2.webp
 - alt: Follow parties
-  image_url: https://test.followagency.pl/follow_www/foto/follow3.jpg
+  image_url: http://kravets.pl/wp-content/uploads/2025/05/follow3.webp
 - alt: Follow parties
-  image_url: https://test.followagency.pl/follow_www/foto/follow4.jpg
+  image_url: http://kravets.pl/wp-content/uploads/2025/05/follow4.webp
 - alt: Follow parties
-  image_url: https://test.followagency.pl/follow_www/foto/follow5.jpg
+  image_url: http://kravets.pl/wp-content/uploads/2025/05/follow5.webp
 - alt: Follow parties
-  image_url: https://test.followagency.pl/follow_www/foto/follow6.jpg
+  image_url: http://kravets.pl/wp-content/uploads/2025/05/follow6.webp
 - alt: Follow parties
-  image_url: https://test.followagency.pl/follow_www/foto/follow7.jpg
+  image_url: http://kravets.pl/wp-content/uploads/2025/05/follow7.webp
 - alt: Follow parties
-  image_url: https://test.followagency.pl/follow_www/foto/follow8.jpg
+  image_url: http://kravets.pl/wp-content/uploads/2025/05/follow8.webp
 - alt: Follow parties
-  image_url: https://test.followagency.pl/follow_www/foto/follow9.jpg
+  image_url: http://kravets.pl/wp-content/uploads/2025/05/follow9.webp
 - alt: Follow parties
-  image_url: https://test.followagency.pl/follow_www/foto/follow10.jpg
+  image_url: http://kravets.pl/wp-content/uploads/2025/05/follow10.webp
 - alt: Follow parties
-  image_url: https://test.followagency.pl/follow_www/foto/follow11.jpg
+  image_url: http://kravets.pl/wp-content/uploads/2025/05/follow11.webp
 - alt: Follow parties
-  image_url: https://test.followagency.pl/follow_www/foto/follow12.jpg
+  image_url: http://kravets.pl/wp-content/uploads/2025/05/follow12.webp
 - alt: Follow parties
-  image_url: https://test.followagency.pl/follow_www/foto/follow13.jpg
+  image_url: http://kravets.pl/wp-content/uploads/2025/05/follow13.webp
 - alt: Follow parties
-  image_url: https://test.followagency.pl/follow_www/foto/follow14.jpg
+  image_url: http://kravets.pl/wp-content/uploads/2025/05/follow14.webp
 - alt: Follow parties
-  image_url: https://test.followagency.pl/follow_www/foto/follow15.jpg
+  image_url: http://kravets.pl/wp-content/uploads/2025/05/follow15.webp
 ---
 <!--
 Uwaga:
