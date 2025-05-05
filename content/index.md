@@ -121,21 +121,21 @@ id: social-media
 title: Social media
 items:
 - type: video
-  value: http://kravets.pl/wp-content/uploads/2025/04/social_blik1.mp4
+  value: https://test.followagency.pl/follow_www/video_compressed/social_blik1.mp4
 - type: video
-  value: http://kravets.pl/wp-content/uploads/2025/04/social_empik1.mp4
+  value: https://test.followagency.pl/follow_www/video_compressed/social_empik1.mp4
 - type: video
-  value: http://kravets.pl/wp-content/uploads/2025/04/social_flex1.mp4
+  value: https://test.followagency.pl/follow_www/video_compressed/social_flex1.mp4
 - type: video
-  value: http://kravets.pl/wp-content/uploads/2025/04/social_lx1.mp4
+  value: https://test.followagency.pl/follow_www/video_compressed/social_lx1.mp4
 - type: video
-  value: http://kravets.pl/wp-content/uploads/2025/04/social_selfie2.mp4
+  value: https://test.followagency.pl/follow_www/video_compressed/social_selfie2.mp4
 - type: video
-  value: http://kravets.pl/wp-content/uploads/2025/04/social_selfie1.mp4
+  value: https://test.followagency.pl/follow_www/video_compressed/social_selfie1.mp4
 - type: video
-  value: http://kravets.pl/wp-content/uploads/2025/04/social_sinsay1.mp4
+  value: https://test.followagency.pl/follow_www/video_compressed/social_sinsay1.mp4
 - type: video
-  value: http://kravets.pl/wp-content/uploads/2025/04/social_oya2.mp4
+  value: https://test.followagency.pl/follow_www/video_compressed/social_oya2.mp4
 ---
 ::
 
@@ -143,8 +143,8 @@ items:
 ---
 id: follow-films
 title: 
-url: http://kravets.pl/wp-content/uploads/2025/04/follow_films_reel.mp4
-loop: http://kravets.pl/wp-content/uploads/2025/04/flw_films_loop.mp4
+url: https://test.followagency.pl/follow_www/video_compressed/follow_films_reel.mp4
+loop: https://test.followagency.pl/follow_www/video_compressed/flw_films_loop.mp4
 ---
 ::
 
@@ -155,17 +155,17 @@ title: TikTok
 items:
 - type: GridVideo
   url: #
-  value: http://kravets.pl/wp-content/uploads/2025/04/social_empik1.mp4
+  value: https://test.followagency.pl/follow_www/video_compressed/social_empik1.mp4
 - type: GridVideo
-  value: http://kravets.pl/wp-content/uploads/2025/04/social_blik1.mp4
+  value: https://test.followagency.pl/follow_www/video_compressed/social_blik1.mp4
 - type: GridVideo
-  value: http://kravets.pl/wp-content/uploads/2025/04/social_oya2.mp4
+  value: https://test.followagency.pl/follow_www/video_compressed/social_oya2.mp4
 - type: GridText
   value: TikTok
 - type: GridVideo
-  value: http://kravets.pl/wp-content/uploads/2025/04/social_selfie1.mp4
+  value: https://test.followagency.pl/follow_www/video_compressed/social_selfie1.mp4
 - type: GridVideo
-  value: http://kravets.pl/wp-content/uploads/2025/04/social_flex1.mp4
+  value: https://test.followagency.pl/follow_www/video_compressed/social_flex1.mp4
 - type: GridImage
   value: temp/ekipa-orange.jpg
 ---
@@ -178,18 +178,18 @@ title: Reels
 type: Reels
 items:
 - type: GridVideo
-  value: http://kravets.pl/wp-content/uploads/2025/04/social_reels_speakup.mp4
+  value: https://test.followagency.pl/follow_www/video_compressed/social_reels_speakup.mp4
 - type: GridVideo
-  value: http://kravets.pl/wp-content/uploads/2025/04/social_stories_biot1.mp4
+  value: https://test.followagency.pl/follow_www/video_compressed/social_stories_biot1.mp4
 - type: GridVideo
-  value: http://kravets.pl/wp-content/uploads/2025/04/social_reels_gamer.mp4
+  value: https://test.followagency.pl/follow_www/video_compressed/social_reels_gamer.mp4
 - type: GridText
   value: Reels
 - type: GridVideo
-  value: http://kravets.pl/wp-content/uploads/2025/04/social_stories_daso.mp4
+  value: https://test.followagency.pl/follow_www/video_compressed/social_stories_daso.mp4
 - type: GridVideo
-  value: http://kravets.pl/wp-content/uploads/2025/04/social_stories_biot2.mp4
+  value: https://test.followagency.pl/follow_www/video_compressed/social_stories_biot2.mp4
 - type: GridVideo
-  value: http://kravets.pl/wp-content/uploads/2025/04/social_reels_seat1.mp4  
+  value: https://test.followagency.pl/follow_www/video_compressed/social_reels_seat1.mp4  
 ---
 ::
